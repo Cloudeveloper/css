@@ -1,7 +1,6 @@
-/* Credits to Leeprky#2063 for original css file */
-.titleBar-AC4pGV > *:nth-child(2):hover {background-color: #aa2210;}
-.titleBar-AC4pGV > *:nth-child(3):hover {background-color: #c9990a;}
-.titleBar-AC4pGV > *:nth-child(4):hover {background-color: #0ea70e;}
+.titleBar-AC4pGV > *:nth-child(2):hover {background-color: #424242;}
+.titleBar-AC4pGV > *:nth-child(3):hover {background-color: #424242;}
+.titleBar-AC4pGV > *:nth-child(4):hover {background-color: #424242;}
 .layer-3QrUeG.baseLayer-35bLyl {background-color: var(--background-tertiary) !important;}
 /* .container-2lgZY8 {margin-top: 10px;} */
 .withFrame-haYltI {
