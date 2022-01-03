@@ -1,7 +1,7 @@
 .theme-dark {
-    --background-primary: #1F2125 !important;
+    --background-primary: rgb(255, 0, 0) !important;
     --background-secondary: var(--background-primary) !important;
-    --background-secondary-alt: #14161A !important;
+    --background-secondary-alt: #fcff44 !important;
     --background-tertiary: var(--background-secondary-alt) !important;
     --background-modifier-active: var(--background-primary) !important;
     --background-modifier-selected: var(--background-secondary-alt) !important;
@@ -22,5 +22,5 @@
     --interactive-active: #ffffff !important;
     --interactive-normal: #d0d1d4 !important;
     --interactive-hover: #eeeeee !important;
-    --highlight-color: #23262a !important;
+    --highlight-color: #6146ff !important;
 }
