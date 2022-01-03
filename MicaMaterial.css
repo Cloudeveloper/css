@@ -1,3 +1,11 @@
+@import "https://leeprky.github.io/themes/WindowsXI/imports/titlebar-00/titlebar.css";
+.titleBar-AC4pGV > *:nth-child(2):hover {background-color: #3f3f3f;}
+.titleBar-AC4pGV > *:nth-child(3):hover {background-color: #3f3f3f;}
+.titleBar-AC4pGV > *:nth-child(4):hover {background-color: #3f3f3f;}
+ .theme-dark, .theme-light {
+  --Watermark-Alignment: 50%;
+ }
+ 
 .theme-dark {
     --background-primary: Fill="{ThemeResource AcrylicBackgroundFillColorDefaultBrush}" !important;
     --background-secondary: Fill="{ThemeResource AcrylicBackgroundFillColorDefaultBrush}" !important;
